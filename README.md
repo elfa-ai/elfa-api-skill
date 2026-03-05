@@ -1,4 +1,4 @@
-# Elfa API Skill for Claude
+# Claude AI Trading Skill
 
 Real-time crypto social data in Claude. Track trending tokens, surface narratives, search mentions, and run market analysis without leaving the chat.
 
